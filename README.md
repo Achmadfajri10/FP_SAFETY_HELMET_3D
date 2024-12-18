@@ -10,7 +10,9 @@ Proyek ini merupakan implementasi dari safety helmet yang ada di kost saya yang 
 
 ## Screenshot
 
-*Tampilan atas asbak menunjukkan bentuk segi delapan*
+![Screenshot 2024-12-18 204205](https://github.com/user-attachments/assets/71436501-e276-4332-9847-65332db62b6c)
+
+*Tampilan ketika menjalankan WEBGL Safety Helmet 3D*
 
 *Tampilan perspektif menunjukkan kedalaman dan detail bagian dalam*
 
